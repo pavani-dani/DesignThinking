@@ -1,4 +1,4 @@
-# Design Thinking na Prática: Um Estudo Aplicado
+# Design Thinking na prática: um estudo aplicado
 
 *Este documento é uma consolidação dos estudos realizados como parte do meu Plano de Desenvolvimento Individual (PDI), culminando em um workshop sobre Design Thinking aplicado ao desenvolvimento de software.*
 
@@ -6,10 +6,11 @@
 
 ## Índice
 
-- [Design Thinking na Prática: Um Estudo Aplicado](#design-thinking-na-prática-um-estudo-aplicado)
+- [Design Thinking na prática: um estudo aplicado](#design-thinking-na-prática-um-estudo-aplicado)
   - [Índice](#índice)
   - [1. Introdução: o que é Design Thinking?](#1-introdução-o-que-é-design-thinking)
     - [O papel fundamental da Stanford d.school](#o-papel-fundamental-da-stanford-dschool)
+      - [Cursos e recursos online](#cursos-e-recursos-online)
   - [2. Desvendando o caminho: pilares e processo](#2-desvendando-o-caminho-pilares-e-processo)
     - [As três lentes da inovação](#as-três-lentes-da-inovação)
     - [Princípios e Pilares Fundamentais](#princípios-e-pilares-fundamentais)
@@ -49,6 +50,15 @@ Sua importância é imensa por duas razões principais:
 1.  **Estruturação do processo**: Foi a d.school que consolidou e popularizou o famoso **modelo de 5 etapas (Empatia, Definição, Ideação, Prototipagem e Teste)**, que hoje serve como a principal referência para a aplicação prática do Design Thinking em todo o mundo.
 2.  **Disseminação do conhecimento**: Ao focar no ensino e na aplicação prática através de projetos reais, a d.school se tornou o principal catalisador para a disseminação global da abordagem, formando líderes e inovadores que levaram essa filosofia de trabalho para as maiores empresas de tecnologia e para os mais diversos setores do mercado.
 
+#### Cursos e recursos online
+
+Para quem deseja se aprofundar, a d.school e a Stanford Online oferecem diversos recursos acessíveis:
+
+* **Programas online:** A Stanford Online oferece o **[Creativity and Design Thinking Program](https://online.stanford.edu/programs/creativity-and-design-thinking-program)**, um programa completo que inclui cursos como "Introdução ao Design Thinking" e módulos práticos de prototipagem.
+* **Recursos gratuitos:** Existem guias e workshops gratuitos, como o **[Virtual Design Thinking Crash Course](https://www.innovationtraining.org/virtual-design-thinking-workshop-from-stanford-d-school/)**, ideal para quem quer uma introdução rápida, e o **[d.school Starter Kit](https://designthinking.ideo.com/resources/the-d-school-starter-kit)**, pensado para quem quer facilitar uma sessão de Design Thinking com sua equipe.
+
+![Página do d.school Starter Kit](./assets/dschool_courses.gif)
+
 Portanto, ao estudar Design Thinking hoje, estamos, em grande parte, estudando o legado e a metodologia refinada e ensinada pela Stanford d.school.
 
 ---
@@ -83,6 +93,8 @@ O processo é dividido em cinco fases principais que não são lineares, mas sim
 3.  **Ideação**: Gerar o maior volume possível de ideias e soluções, sem julgamentos iniciais. Esta etapa valoriza a criatividade livre e o pensamento "fora da caixa", com a equipe tendo liberdade para experimentar e errar, pois o medo da falha inibe a inovação.
 4.  **Prototipagem**: Construir versões simplificadas e de baixo custo da solução (wireframes, mockups, storyboards, MVPs). O objetivo é ter algo concreto para obter feedback rápido e validar hipóteses na prática, sentindo como a solução se comporta.
 5.  **Testes**: Validar os protótipos com usuários reais para coletar feedback e identificar pontos de melhoria, refinando a solução antes da implementação final.
+   
+![Etapas do Design Thinking](./assets/etapas.gif)
 
 ---
 
@@ -103,8 +115,14 @@ No contexto de tecnologia, a aplicação do Design Thinking nos leva a uma refle
 
 -   **Entregar software**: É o ato de disponibilizar funcionalidades, código e recursos técnicos. É cumprir o que foi solicitado. A pergunta respondida é: *"Isso foi implementado?"*.
 -   **Entregar valor**: É garantir que essas funcionalidades resolvem dores reais, simplificam a vida do usuário e geram um impacto positivo e perceptível. A pergunta respondida é: *"Isso faz sentido para o usuário?"*.
+-   
+![O iceberg do desenvolvimento](./assets/iceberg.png)
 
-A qualidade de software — código limpo, performance, testes — é a base inegociável que sustenta a entrega de valor a longo prazo. No entanto, essa base precisa sustentar algo que as pessoas queiram usar. Como na analogia de um carro de alta performance: o motor pode ser uma obra de arte da engenharia, mas se o volante for quadrado e o banco desconfortável, o valor entregue ao motorista é quase nulo.
+A qualidade de software — código limpo, performance, testes — é a base inegociável que sustenta a entrega de valor a longo prazo. No entanto, essa base precisa sustentar algo que as pessoas queiram usar. No entanto, essa base precisa sustentar algo que as pessoas queiram usar.
+
+Muitas vezes, como engenheiros, medimos a "qualidade" pela **excelência da construção**: a performance do sistema, a elegância da arquitetura, a cobertura dos testes. E isso é fundamental. Mas o usuário final mede a "qualidade" pela **excelência da experiência**: a facilidade de uso, a intuição da interface, a sensação de que o software resolve seu problema sem atrito. Há, portanto, duas perspectivas de qualidade — a da *construção* e a da *experiência* — que precisam se encontrar para que o sucesso aconteça.
+
+É exatamente por isso que a analogia do carro de alta performance funciona tão bem: o motor pode ser uma obra de arte da engenharia (a qualidade da construção), mas se o volante for quadrado e o banco desconfortável (a qualidade da experiência), o ***valor entregue*** ao motorista é quase nulo.
 
 O verdadeiro profissional 'full stack' domina duas pilhas de conhecimento: a **pilha técnica (o COMO construímos)** e a **pilha de empatia (o PORQUÊ construímos)**. Não adianta ter um 'COMO' brilhante para um 'PORQUÊ' que não existe.
 

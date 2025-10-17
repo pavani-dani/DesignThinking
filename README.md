@@ -8,4 +8,4 @@ O objetivo deste projeto foi pesquisar, compreender e apresentar um workshop sob
 
 Este estudo, portanto, serve como um registro do meu processo de aprendizado e uma base de conhecimento consolidada sobre a aplicação do Design Thinking no universo do desenvolvimento de software.
 
-Para acessar o **conteúdo completo**, veja o nosso **[Estudo Aplicado sobre Design Thinking](./ESTUDO_APLICADO_DT.md).**
+Para acessar o **conteúdo completo**, veja o nosso **[estudo aplicado sobre Design Thinking](./ESTUDO_APLICADO_DT.md).**
